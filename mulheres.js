@@ -12,7 +12,7 @@ app.use(express.json())
 app.use(cors())
 
 const porta = 3333 //aqui estou criando a porta
-Sensacional!
+
 //aqui estou criando lista inicial de mulheres
 //depois de configurado o mongodb a lista foi excluida
 //const mulheres = [
